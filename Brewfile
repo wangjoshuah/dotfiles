@@ -1,4 +1,4 @@
-install nektos/tap/act
+install act
 install asdf
 install autojump
 install curl
