@@ -6,5 +6,5 @@ set -ev
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Install all brew oependencies
-brew bundle
+brew bundle install
 
