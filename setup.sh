@@ -24,3 +24,7 @@ asdf plugin add yarn
 
 # link fish config
 ln -s .config/ ~/.config
+
+# install gsutil
+curl https://sdk.cloud.google.com | bash
+
